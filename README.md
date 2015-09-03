@@ -5,7 +5,7 @@ repo for project raw33
 - Raw 33 is a Website to display and sell natural handmade body products for the company, Raw33.  There are additional features of which include showing customers where and when events will take place, online ordering, and newsletter subscription.
 
 # Features to add
-1. Social media link icons, on the bottom right corner.
+1. Social media link icons
 2. Option to subscribe to emails
 - Database which will hold a DL (Distribution List)
 3. Calendar with events
