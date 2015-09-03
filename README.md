@@ -1,8 +1,9 @@
 # raw33
 repo for project raw33
 
-# Overview or "Elevator pitch"
+# Overview
 - Raw 33 is a Website to display and sell natural handmade body products for the company, Raw33.  There are additional features of which include showing customers where and when events will take place, online ordering, and newsletter subscription.
+<img src="raw33.jpg" alt="Raw33 Logo">
 
 # Features to add
 1. Social media link icons
