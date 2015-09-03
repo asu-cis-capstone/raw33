@@ -21,3 +21,12 @@ repo for project raw33
 3. Michael Crosby - crosbymichael1
 4. Scott Henry - sahenry2
 3. Amy Nicosia - anicosia
+
+# Waffle.io
+https://waffle.io/asu-cis-capstone/raw33
+
+# Current website
+http://raw33body.com/
+
+# Facebook
+https://www.facebook.com/Raw33Body?fref=ts
