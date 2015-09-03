@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/raw33.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/raw33)
 # raw33
 repo for project raw33
 
