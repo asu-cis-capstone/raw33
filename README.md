@@ -30,3 +30,6 @@ http://raw33body.com/
 
 # Facebook
 https://www.facebook.com/Raw33Body?fref=ts
+
+# Presentation
+https://docs.google.com/presentation/d/1qg66gCEKIoIo63zXuguwL2XpI9j4ozhA97hz5ud4vGk/edit?usp=sharing
