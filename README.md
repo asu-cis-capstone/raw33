@@ -17,6 +17,6 @@ repo for project raw33
 # List of Contributors
 1. Christina Chapple - christinamc24
 2. Cristian Curiel - cristiandoublec
-3. Michael Crosby - ???
-4. Scott Henry - ???
-3. Amy Nicosia - ???
+3. Michael Crosby - crosbymichael1
+4. Scott Henry - sahenry2
+3. Amy Nicosia - anicosia
