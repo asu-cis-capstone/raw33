@@ -6,13 +6,13 @@ repo for project raw33
 <img src="raw33.jpg" alt="Raw33 Logo">
 
 # Features to add
-1. Social media link icons
+1. Social media link icons - Done
 2. Option to subscribe to emails
 - Database which will hold a DL (Distribution List)
 3. Calendar with events
 4. Shopping cart with checkout options
 - Paypal plugin
-5. Product reviews/star ratings
+5. Product reviews/star ratings -Done
 6. Login/New User Registration
 
 # List of Contributors
