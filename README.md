@@ -33,3 +33,20 @@ https://www.facebook.com/Raw33Body?fref=ts
 
 # Presentation
 https://docs.google.com/presentation/d/1qg66gCEKIoIo63zXuguwL2XpI9j4ozhA97hz5ud4vGk/edit?usp=sharing
+
+#Features Added to Website
+
+1. Added scrolling pictures for the display of our homepage.
+2. Set up a navigation bar.
+3. Created a 'contact us' page to begin generating sales.
+4. Enabled a product review section for all products.
+5. Created a header/footer and uploaded it to the site.
+6. Created a 'our story' page to fully tell the story of how the business started.
+7. Setup links to the social media accounts.
+
+#Features Currently in Progress
+
+1. Create tabs for the about us and faq sectons.
+2. Shopping cart.
+3. Product information (waiting on more info from company)
+
