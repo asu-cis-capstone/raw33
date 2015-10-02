@@ -47,6 +47,7 @@ https://docs.google.com/presentation/d/1qg66gCEKIoIo63zXuguwL2XpI9j4ozhA97hz5ud4
 #Features Currently in Progress
 
 1. Create tabs for the about us and faq sectons.
-2. Shopping cart.
-3. Product information (waiting on more info from company)
-
+2. Shopping cart - edit payment type to only paypal
+3. Product information and pictures (waiting on more info from company)
+4. Google calendar to link to social events
+5. Subscription email to promote products and sales
