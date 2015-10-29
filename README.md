@@ -43,11 +43,15 @@ https://docs.google.com/presentation/d/1qg66gCEKIoIo63zXuguwL2XpI9j4ozhA97hz5ud4
 5. Created a header/footer and uploaded it to the site.
 6. Created a 'our story' page to fully tell the story of how the business started.
 7. Setup links to the social media accounts.
+8.  About us and FAQ sections
+9.  Shopping Cart- Payment Options
+10.  Subscription email to promote products and sales
+11.  Taxes and Shipping costs
 
 #Features Currently in Progress
 
-1. Create tabs for the about us and faq sectons.
-2. Shopping cart - edit payment type to only paypal
-3. Product information and pictures (waiting on more info from company)
-4. Google calendar to link to social events
-5. Subscription email to promote products and sales
+
+1. Product information and pictures (waiting on more info from company)
+2. Google calendar to link to social events
+3. Product weights in order to calculate shipping costs more efficeintly
+4. 
