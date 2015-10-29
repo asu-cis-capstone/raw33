@@ -47,11 +47,19 @@ https://docs.google.com/presentation/d/1qg66gCEKIoIo63zXuguwL2XpI9j4ozhA97hz5ud4
 9.  Shopping Cart- Payment Options
 10.  Subscription email to promote products and sales
 11.  Taxes and Shipping costs
+Added for v0.3
+12.  Product pictures and information
+13.  Subscriber form
+14.  shopping cart complete
+15.  social media links 
+16.  shipping costs implemented
+17.  taxes implemented
 
 #Features Currently in Progress
+1. Mailchimp campaign for launch of website
+2. Tweaking design of website 
+3. Link Google calender
 
 
-1. Product information and pictures (waiting on more info from company)
-2. Google calendar to link to social events
-3. Product weights in order to calculate shipping costs more efficeintly
-4. 
+
+ 
