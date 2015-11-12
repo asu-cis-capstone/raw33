@@ -56,7 +56,7 @@ https://docs.google.com/presentation/d/1qg66gCEKIoIo63zXuguwL2XpI9j4ozhA97hz5ud4
 18.  Subscription list option added and on two tabs within the site
 
 Version .4
--Unfortunately we we were not able to add more inforation within the site due to lack of responce from our client. We were able to go through the editing aspects of the site and see what else we can offer the client if we have extra time in the end.
+-Unfortunately we we were not able to add more information within the site due to lack of responce from our client. We were able to go through the editing aspects of the site and see what else we can offer the client if we have extra time in the end.
 
 1. Subscribers uploaded into mailchimp (360).
 2. added promotional code feature. 
