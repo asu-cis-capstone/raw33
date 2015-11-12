@@ -7,9 +7,9 @@ repo for project raw33
 
 # Features to add
 1. Social media link icons - Done
-2. Option to subscribe to emails
+2. Option to subscribe to emails - Done
 - Database which will hold a DL (Distribution List)
-3. Calendar with events
+3. Calendar with events - unable to unless we find code from somewhere else or do hyperlink
 4. Shopping cart with checkout options
 - Paypal plugin
 5. Product reviews/star ratings -Done
@@ -47,21 +47,23 @@ https://docs.google.com/presentation/d/1qg66gCEKIoIo63zXuguwL2XpI9j4ozhA97hz5ud4
 9.  Shopping Cart- Payment Options
 10.  Subscription email to promote products and sales
 11.  Taxes and Shipping costs
-
-Added for v0.3
 12.  Product pictures
 13.  Subscriber form
 14.  shopping cart complete
 15.  social media links 
 16.  shipping costs implemented
 17.  taxes implemented
+18.  Subscription list option added and on two tabs within the site
+
+Version .4
+Unfortunately we we were not able to add more inforation within the site due to lack of responce from our client. We were able to go through the editing aspects of the site and see what else we can offer the client if we have extra time in the end.
 
 #Features Currently in Progress
 1. Mailchimp campaign for launch of website
 2. Tweaking design of website 
-3. Link Google calender
-4. Product details
-5. smell descriptions
+3. Link Google calender - can't do actual google calender due to limited plug ins but will do hyperlink to google calender
+4. Product details - requested waiting from client
+5. smell descriptions - requested waiting from client
 6. rearrange features
 
 
