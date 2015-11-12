@@ -57,14 +57,17 @@ https://docs.google.com/presentation/d/1qg66gCEKIoIo63zXuguwL2XpI9j4ozhA97hz5ud4
 
 Version .4
 Unfortunately we we were not able to add more inforation within the site due to lack of responce from our client. We were able to go through the editing aspects of the site and see what else we can offer the client if we have extra time in the end.
+1. Subscribers uploaded into mailchimp (360).
+2. added promotional code feature. 
+3. The benefits of ingredients section with descriptions of different vitamins.
 
 #Features Currently in Progress
 1. Mailchimp campaign for launch of website
-2. Tweaking design of website 
-3. Link Google calender - can't do actual google calender due to limited plug ins but will do hyperlink to google calender
-4. Product details - requested waiting from client
-5. smell descriptions - requested waiting from client
-6. rearrange features
+2. Rearranging features.
+3. google calender link.
+4. still need from client: Product details, smell descriptions.
+5. Testing plan.
+6. We must create a document that explains how to update everything from the wordpress admin portal so that our clients will not be left without information after the conclusion of the project. 
 
 
 
